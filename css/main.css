@@ -1,12 +1,21 @@
-.bbutton {
-	vertical-align: bottom;
+.panel-body {
+	text-align: center;
 }
 
 h3 {
 	font-size: 16pt;
+	margin: 0px;
 }
 
 .btn {
 	width: 110px;
 }
 
+.panel-default {
+	padding: 0px;
+}
+
+.col-md-4 {
+	margin: 5px;
+	width: 32%;
+}
