@@ -26,3 +26,9 @@ h3 {
 .jumbotron {
 	background-color: #5cb85c;
 }
+
+.client-selection {
+    text-align: center;
+    overflow: hidden;
+    border: 1px solid;
+}
