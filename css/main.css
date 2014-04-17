@@ -1,5 +1,6 @@
 .panel-body {
 	text-align: center;
+	padding: 10px;
 }
 
 h3 {
@@ -9,6 +10,8 @@ h3 {
 
 .btn {
 	width: 110px;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 .panel-default {
@@ -16,6 +19,10 @@ h3 {
 }
 
 .col-md-4 {
-	margin: 5px;
-	width: 32%;
+	margin: 10px;
+	width: auto;
+}
+
+.jumbotron {
+	background-color: #5cb85c;
 }
